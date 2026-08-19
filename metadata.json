@@ -1,0 +1,6 @@
+{
+  "name": "Alertify",
+  "description": "AI-powered disaster incident reporting and response platform turning scattered reports into structured, prioritized clarity for resilient communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
